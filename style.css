@@ -1,8 +1,42 @@
-body{
-    background-image: url(https://doob.rainbowit.net/images/bg/bg-image-3.jpg);
+.div {
+    opacity: 0,3;
+}
+slider-area-1 .inner .title {
+    font-family: "inter", sans serif;
+    font-family: ;
+    margin-bottom: ;
+    display: ;
 }
 
 .navBar{
     background-color: black;
 
+}
+
+h6 {
+    text-align: center;
+    color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    color: gray;
+}
+
+.card-body {
+    text-align: center;
+    color: gray;        
+}
+
+
+.second-section {
+   
+    background-size: cover;
+    text-align: center;
+    height: 700px;
 }
